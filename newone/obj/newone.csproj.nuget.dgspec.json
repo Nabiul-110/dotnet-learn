@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newapplication\\newapplication.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newone\\newone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newapplication\\newapplication.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newone\\newone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newapplication\\newapplication.csproj",
-        "projectName": "newapplication",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newapplication\\newapplication.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newone\\newone.csproj",
+        "projectName": "newone",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newone\\newone.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newapplication\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\dotnet-learn\\newone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

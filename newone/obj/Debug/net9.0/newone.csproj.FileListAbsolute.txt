@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\bin\Debug\net9.0\newone.exe
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\bin\Debug\net9.0\newone.deps.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\bin\Debug\net9.0\newone.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\bin\Debug\net9.0\newone.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\bin\Debug\net9.0\newone.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\refint\newone.dll
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.pdb
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\newone.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\dotnet-learn\newone\obj\Debug\net9.0\ref\newone.dll
